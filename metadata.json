@@ -1,0 +1,6 @@
+{
+  "name": "Learning Management System",
+  "description": "An interactive, elegant, and standard Learning Management System (LMS) with robust progress tracking, structured lessons, quizzes with active feedback, student analytics, and instructor course formulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
